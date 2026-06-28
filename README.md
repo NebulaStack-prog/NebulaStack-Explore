@@ -73,7 +73,7 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 * Python
 * Artificial Intelligence
 
-# Philosophy
+# 🌌 Philosophy
 
 NebulaStack believes that every completed project should produce knowledge.
 
