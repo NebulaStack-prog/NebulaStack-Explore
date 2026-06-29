@@ -14,7 +14,7 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 ### Research Works
 
-* [Research Work №1 — Phase I Development Analysis](Research_Work_No1_RU.pdf)
+* [Research Work №1 – Phase I Development Analysis](Research_Work_No1_RU.pdf)
 
 ### Articles
 
