@@ -8,7 +8,7 @@ This repository contains research papers, analytical articles, technical publica
 
 The main goal of Explore is to document knowledge, analyze technologies and share practical experience gained during software development.
 
-# Repository Structure
+## Repository Structure
 
 ## 📚 Phase I
 
@@ -20,14 +20,14 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 *Coming Soon...*
 
-# 🛠 Main Technologies
+## 🛠 Main Technologies
 
 * Markdown
 * GitHub
 * Python
 * Artificial Intelligence
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 NebulaStack believes that every completed project should produce knowledge.
 
