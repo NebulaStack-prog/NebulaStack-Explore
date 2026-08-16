@@ -8,15 +8,11 @@ This repository contains research papers, analytical articles, technical publica
 
 The main goal of Explore is to document knowledge, analyze technologies and share practical experience gained during software development.
 
-## Repository Structure
-
-## Phase I
-
-### Research Works
+## Research Works of Phase I
 
 * [Research Work №1 – Phase I Development Analysis](Research_Work_No1_RU.pdf)
 
-## Phase II
+## Research Works of Phase II
 
 *Coming Soon...*
 
