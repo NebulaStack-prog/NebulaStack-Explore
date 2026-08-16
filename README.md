@@ -10,7 +10,10 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 ## 📔 Research Works of Phase I
 
-* [Research Work №1 – Phase I Development Analysis](Research_Work_No1_RU.pdf)
+| №    | Topic    |Links  | 
+| ------ | ------------| :----: |
+| 1 | Nest Wave 01| [More...](Research_Work_No1_RU.pdf)   |
+
 
 ## 📓 Research Works of Phase II
 
