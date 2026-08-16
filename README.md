@@ -20,48 +20,14 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 *Coming Soon...*
 
-# Planned Topics
-
-### Artificial Intelligence
-
-* AI technologies
-* AI Assistants
-* Agent Systems
-
-### Software Development
-
-* Python
-* Software Architecture
-* Desktop Applications
-* Automation
-
-### Game Development
-
-* Game Design
-* Development Experience
-* Historical Game Analysis
-
-### Science & Technology
-
-* Robotics
-* Physics
-* Engineering
-* Future Technologies
-
-### Digital Well-being
-
-* Technology Impact
-* Productivity
-* Digital Habits
-
-## 🛠 Main Technologies
+# 🛠 Main Technologies
 
 * Markdown
 * GitHub
 * Python
 * Artificial Intelligence
 
-## 🌌 Philosophy
+# 🌌 Philosophy
 
 NebulaStack believes that every completed project should produce knowledge.
 
