@@ -65,7 +65,7 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 NebulaStack believes that every completed project should produce knowledge.
 
-Research is not separate from development—it is a natural continuation of it.
+Research is not separate from development – it is a natural continuation of it.
 
 ## 🏁 Future Plans
 
