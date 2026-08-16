@@ -12,7 +12,7 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 | №    | Topic    |Links  | 
 | ------ | ------------| :----: |
-| 1 | Nest Wave 01| [More...](Research_Work_No1_RU.pdf)   |
+| 1 | Development and analysis of the first stage of the NebulaStack ecosystem development.| [More...](Research_Work_No1_RU.pdf)   |
 
 
 ## 📓 Research Works of Phase II
