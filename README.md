@@ -10,13 +10,13 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 ## Repository Structure
 
-## 📚 Phase I
+## Phase I
 
 ### Research Works
 
 * [Research Work №1 – Phase I Development Analysis](Research_Work_No1_RU.pdf)
 
-## 🚀 Phase II
+## Phase II
 
 *Coming Soon...*
 
