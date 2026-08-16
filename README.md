@@ -29,12 +29,4 @@ NebulaStack believes that every completed project should produce knowledge.
 
 Research is not separate from development – it is a natural continuation of it.
 
-## 🏁 Future Plans
-
-* Publish research papers
-* Write analytical articles
-* Document development methodologies
-* Study modern technologies
-* Expand the NebulaStack knowledge base
-
 > **Research. Analyze. Document. Improve.**
