@@ -23,7 +23,8 @@ The main goal of Explore is to document knowledge, analyze technologies and shar
 
 * Markdown
 * GitHub
-* Python
+* Microsoft Word
+* Google Docs
 * Artificial Intelligence
 
 ## 🌌 Philosophy
